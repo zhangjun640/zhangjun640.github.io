@@ -6,14 +6,15 @@
 
 main:
   - title: "Publications"
-    url: /publications/    
-    
-  - title: "Program"
-    url: /portfolio/
+    url: /publications/
+
+  - title: "Talks"
+    url: /talks/    
         
-  - title: "Activity"
+  - title: "Year-archive"
     url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
+
