@@ -25,16 +25,3 @@ Integration of Spatial Transcriptomics and Single-Cell Sequencing Analysis:
 ======
   * Currently processing data, aligning, and integrating datasets.
 
-Skills
-======
-* Machine Learning
-* Code
-  * Python
-  * C++
-  * Java
-* Single-cell transcriptomics data analysis
-* Spatial transcriptomics data analysis
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
