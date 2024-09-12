@@ -54,6 +54,3 @@ Skills
 * Single-cell transcriptomics data analysis
 * Spatial transcriptomics data analysis
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
