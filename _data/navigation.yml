@@ -6,10 +6,7 @@
 
 main:
   - title: "Publications"
-    url: /publications/  
-
-  - title: "Course"
-    url: /teaching/    
+    url: /publications/    
     
   - title: "Program"
     url: /portfolio/
