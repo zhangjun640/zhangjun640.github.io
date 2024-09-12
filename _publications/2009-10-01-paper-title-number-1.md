@@ -1,6 +1,10 @@
 ---
+---
 title: "I am actively working on publications, and my current projects are progressing steadily. I hope to produce significant outcomes."
-
+collection: publications
+category: manuscripts
+permalink: /publication/2009-10-01-paper-title-number-1
+date: 12-9-2024
 ---
 
 Current Project Progress:
