@@ -1,9 +1,8 @@
 ---
 layout: archive
 title: "Current Project Progress:"
-permalink: /process/
+permalink: /project/
 author_profile: true
-
 ---
 
 {% include base_path %}
