@@ -14,6 +14,7 @@ I am very fortunate to be advised by [Prof. Wei](https://scholar.google.com/cita
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](mailto:202200300321@mail.sdu.edu.cn) / [Github](https://github.com/zhangjun640) / [Wechat](../images/wechat.jpg)
+---
 Feel free to reach out or explore my projects and research efforts!
 
 
