@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "I am actively working on publications, and my current projects are progressing steadily. I hope to produce significant outcomes."
+title: "Current Project Progress:"
 permalink: /process/
 author_profile: true
 
@@ -8,8 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-Current Project Progress:
-======
 
 Detection of RNA Modifications using Nanopore Direct RNA Sequencing Reads: 
 ======
