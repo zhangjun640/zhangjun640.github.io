@@ -43,7 +43,7 @@ Research Experiebcence
   * Refined spatial transcriptomics data by aligning single-cell classifications with spatially resolved gene expression, providing detailed insights into tissue composition.
   * Integrated spatial transcriptomics with single-cell sequencing to investigate cell communication, developmental trajectories, and other high-resolution cellular interactions.
 
-======
+
 Skills
 ======
 * Machine Learning
