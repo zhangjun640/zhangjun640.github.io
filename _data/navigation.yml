@@ -13,8 +13,8 @@ main:
         
   - title: "Year-archive"
     url: /year-archive/
-  - title: "Events"
-    url: /events/ 
+  - title: "Processing"
+    url: /process/ 
   - title: "CV"
     url: /cv/
 
