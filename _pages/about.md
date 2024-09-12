@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a third year undergraduate student from [School of Software](https://www.sc.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/). My research interest includes Methylation Position Analysis, Machine Learning Applications in Biomedicine, Single-cell & Spatial Transcriptomics, Medical Image Analysis and Multimodal Data Integration.
 
-I am very fortunate to be advised by [Prof. Wei](https://scholar.google.com/citations?user=0EAV03MAAAAJ&hl=en&oi=ao) of XXX Lab from [School of Software Engnieering](https://www.sc.sdu.edu.cn/), Shandong University. I was advised by [Prof. Lu](https://scholar.google.com/citations?user=1ZtLyS0AAAAJ&hl=en&oi=ao) from [Advanced Medical Research Institute](http://www.amri.sdu.edu.cn/ywb.htm), Shandong University.
+I am very fortunate to be advised by [Prof. Wei](https://scholar.google.com/citations?user=0EAV03MAAAAJ&hl=en&oi=ao) of WeiLab from [School of Software Engnieering](https://www.sc.sdu.edu.cn/), Shandong University. I was advised by [Prof. Lu](https://scholar.google.com/citations?user=1ZtLyS0AAAAJ&hl=en&oi=ao) from [Advanced Medical Research Institute](http://www.amri.sdu.edu.cn/ywb.htm), Shandong University.
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
