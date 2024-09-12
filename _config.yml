@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Pursuit of truth, and knowledge is infinite"
-  location         : "China"
-  employer         : "Shandong University"
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
 
