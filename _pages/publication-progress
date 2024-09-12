@@ -4,12 +4,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 redirect_from:
-  - /publication-progress
+  - /publication-progress/
 ---
 
 {% include base_path %}
 
-## Current Project Progress:
+## Current Project Progress
 
 ### Detection of RNA Modifications using Nanopore Direct RNA Sequencing Reads
 - **Status:** The model construction has been completed, and now we are in the phase of conducting validation experiments.
