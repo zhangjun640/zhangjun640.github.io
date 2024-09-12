@@ -5,12 +5,15 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publication"
-    url: /publication-progress/
   - title: "Project"
     url: /project/    
+    
   - title: "Processing"
     url: /process/ 
+    
+  - title: "Activity"
+    url: /activity/ 
+    
   - title: "CV"
     url: /cv/
 
