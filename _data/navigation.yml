@@ -11,14 +11,12 @@ main:
   - title: "Course"
     url: /teaching/    
     
-  - title: "program"
+  - title: "Program"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Activity"
     url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
