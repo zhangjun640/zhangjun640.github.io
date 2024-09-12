@@ -13,8 +13,9 @@ main:
         
   - title: "Year-archive"
     url: /year-archive/
-    
+  - title: "Events"
+    url: /events/ 
   - title: "CV"
     url: /cv/
-    
+
 
