@@ -14,7 +14,7 @@ Education
 
 * B.S. in Shandong, Shandong University, 2026(excepted)
 
-Research Experiebcence
+Research Experience
 ======
 * Detection of RNA Modifications using Nanopore Direct RNA Sequencing Reads
 * Jun. 2023 – Present:Research Assistant, Research Center of Software and Data Engineering
