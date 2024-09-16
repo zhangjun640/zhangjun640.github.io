@@ -11,12 +11,11 @@ I'm a third year undergraduate student from [School of Software](https://www.sc.
 
 I am very fortunate to be advised by [Prof. Wei](https://scholar.google.com/citations?user=0EAV03MAAAAJ&hl=en&oi=ao) from the WeiLab, [School of Software Engnieering](https://www.sc.sdu.edu.cn/), Shandong University. I also receive guidance from [Prof. Lu](https://scholar.google.com/citations?user=1ZtLyS0AAAAJ&hl=en&oi=ao) at the [Advanced Medical Research Institute](http://www.amri.sdu.edu.cn/ywb.htm), Shandong University.    
 
-As a [Tujia](https://en.wikipedia.org/wiki/Tujia_people) person (Tujia language: Bifjixkhar) in China, I have always been dedicated to advancing education and preserving the cultural heritage of my people. I deeply love my hometown, [Zhangjiajie](https://en.wikipedia.org/wiki/Zhangjiajie), and sincerely hope for its continued growth and prosperity.
+As one of the [Tujia people](https://en.wikipedia.org/wiki/Tujia_people), an ethnic minority in China (Tujia language: Bifjixkhar), I have always been passionate about contributing to the educational development and preserving the cultural heritage of our community. As a university student, I strive to support these efforts in my own way, hoping to make a small difference.     
+I have a deep gratitude and love for my hometown,  [Zhangjiajie](https://en.wikipedia.org/wiki/Zhangjiajie), a place renowned for its stunning landscapes and rich cultural heritage. Growing up in such a beautiful environment has shaped who I am, and I hope to give back and support its future growth in any way I can.
 
 You can find my CV here: [JunZhang](../assets/Curriculum_Vitae.pdf).
 
 [Email](mailto:202200300321@mail.sdu.edu.cn) / [Github](https://github.com/zhangjun640) / [Wechat](../images/wechat.jpg)
 ---
 Feel free to reach out or explore my projects and research efforts!
-
-
