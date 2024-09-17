@@ -58,12 +58,12 @@ Competition
 LeadershipRoles
 ======
 * Chunhui student Volunteer Teaching Club of Shandong University   
-* Apr. 2023 - Apr. 2024      Campus leader 
+* Apr. 2023 - Apr. 2024,      Campus leader 
   * Led various community initiatives, including organizing fundraising events and charity sales, and overseeing volunteer teacher training programs.
   * Established a new volunteer teaching center in Zhangjiajie and successfully completed the first teaching mission in the region.
 
 * School of Software Think Tank, Shandong University
-* Apr. 2024 - Present      Head of scientific research department
+* Apr. 2024 - Present,      Head of scientific research department
   * Coordinated research seminars and shared insights on research methodologies and experiences with peers.
   * Compiled and edited a comprehensive orientation guide for incoming freshmen.
   * Organized a 21-day coding challenge to foster continuous learning and engagement among students.
