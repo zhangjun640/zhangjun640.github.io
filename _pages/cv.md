@@ -47,23 +47,22 @@ Research Experience
 
 Compeetition     
 ======
-* The Chinese Mathematics Competitions   
-*  Aug. 2022       Second Prize in Shandong Province District  
+* The Chinese Mathematics Competitions 
+* Aug. 2022       Second Prize in Shandong Province District
   * This competition assessed the students' knowledge of advanced mathematics, linear algebra, probability theory, and other related subjects.
-
-* National Professional Software Engineering "Blue Bridge Cup" Design Competitions 
-*  Apr.2024        Third Prize in Shandong Province District  
+ 
+* National Professional Software Engineering "Blue Bridge Cup" Design Competitions   
+*  Apr.2024        Third Prize in Shandong Province District
   * This is an algorithm competition that tests the participants' algorithm and coding skills.
-
 Leadership Roles
 ======
-* Chunhui student Volunteer Teaching Club of Shandong University     
-*  Apr. 2023 - Apr. 2024      Campus leader  
+* Chunhui student Volunteer Teaching Club of Shandong University   
+* Apr. 2023 - Apr. 2024      Campus leader 
   * Led various community initiatives, including organizing fundraising events and charity sales, and overseeing volunteer teacher training programs.
   * Established a new volunteer teaching center in Zhangjiajie and successfully completed the first teaching mission in the region.
 
-* School of Software Think Tank, Shandong University     
-*  Apr. 2024 - Present      Head of scientific research department  
+* School of Software Think Tank, Shandong University
+* Apr. 2024 - Present      Head of scientific research department
   * Coordinated research seminars and shared insights on research methodologies and experiences with peers.
   * Compiled and edited a comprehensive orientation guide for incoming freshmen.
   * Organized a 21-day coding challenge to foster continuous learning and engagement among students.
