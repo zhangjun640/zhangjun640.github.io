@@ -44,8 +44,7 @@ Research Experience
   * Refined spatial transcriptomics data by aligning cell populations with spatially resolved gene expression, providing detailed insights into tissue composition.
   * Integrated spatial and single-cell transcriptomics to investigate cell communication, trajectory inference and cellular plasticity measurement.
 
-
-Compeetition     
+Competition   
 ======
 * The Chinese Mathematics Competitions 
 * Aug. 2022       Second Prize in Shandong Province District
@@ -54,7 +53,8 @@ Compeetition
 * National Professional Software Engineering "Blue Bridge Cup" Design Competitions   
 *  Apr.2024        Third Prize in Shandong Province District
   * This is an algorithm competition that tests the participants' algorithm and coding skills.
-Leadership Roles
+
+LeadershipRoles
 ======
 * Chunhui student Volunteer Teaching Club of Shandong University   
 * Apr. 2023 - Apr. 2024      Campus leader 
