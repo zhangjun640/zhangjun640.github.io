@@ -15,7 +15,7 @@ As one of the [Tujia people](https://en.wikipedia.org/wiki/Tujia_people), an eth
 
 I have a deep gratitude and love for my hometown,  [Zhangjiajie](https://en.wikipedia.org/wiki/Zhangjiajie), a place renowned for its stunning landscapes and rich cultural heritage. Growing up in such a beautiful environment has shaped who I am, and I hope to give back and support its future growth in any way I can.
 
-You can find my CV here: [JunZhang](/files/JunZhangCV.pdf).
+You can find my CV here: [CV page](https://academicpages.github.io/cv).
 
 [Email](mailto:202200300321@mail.sdu.edu.cn) / [Github](https://github.com/zhangjun640) / [Wechat](../images/wechat.jpg)
 ---
