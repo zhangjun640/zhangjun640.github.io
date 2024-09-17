@@ -47,12 +47,12 @@ Research Experience
 Competition   
 ======
 * The Chinese Mathematics Competitions 
-* Aug. 2022       Second Prize in Shandong Province District
+* Aug. 2022,       Second Prize in Shandong Province District
   * This competition assessed the students' knowledge of advanced mathematics, linear algebra, probability theory, and other related subjects.
  
 
 * National Professional Software Engineering "Blue Bridge Cup" Design Competitions   
-* Apr.2024        Third Prize in Shandong Province District
+* Apr.2024,        Third Prize in Shandong Province District
   * This is an algorithm competition that tests the participants' algorithm and coding skills.
 
 LeadershipRoles
