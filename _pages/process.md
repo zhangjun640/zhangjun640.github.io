@@ -11,7 +11,7 @@ author_profile: true
 
 Detection of RNA Modifications using Nanopore Direct RNA Sequencing Reads: 
 ======
-  * The model construction has been completed, and now we are in the phase of conducting validation experiments.
+  * The model has completed the initial construction.
 
 Prediction of EGFR Mutations in Lung Cancer using Multi-Modal Patient Data:
 ======
