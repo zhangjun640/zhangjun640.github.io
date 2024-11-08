@@ -1,7 +1,5 @@
 
 
-{% include base_path %}
-
 
 Summer volunteer teaching in Zhangjiajie: 
 ======
