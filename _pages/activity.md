@@ -17,5 +17,5 @@ Summer volunteer teaching in Zhangjiajie:
 Charity sale:
 ======
   * From 2022 to 2023, I organized multiple charity sales to bring warmth to children in remote areas. The funds we raised went toward providing school supplies and educational support for these children in underserved mountain regions.
-  * [GitHub Link](https://github.com/zhangjun640/zhangjun640.github.io/blob/master/_pages/record.md)
+  * [GitHub Link](https://github.com/zhangjun640/zhangjun640.github.io/blob/master/_pages/CharitySale.md)
 
