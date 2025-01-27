@@ -30,4 +30,9 @@ Web crawler attempt:
   * In this project, I used Python web scraping to extract data from a novel website and NASA's public database, successfully completing the entire task.
   * [GitHub Link](https://github.com/zhangjun640/Try-web-crawler)
 
+SNP-SNP_Prediction: 
+======
+  * In this project, I used the mutual information algorithm, and the power value in both the biallelic and triallelic models reached 1, meaning all the SNP loci were correctly identified with complete accuracy.
+  * [GitHub Link](https://github.com/zhangjun640/SNP-SNP_Prediction)
+
 
