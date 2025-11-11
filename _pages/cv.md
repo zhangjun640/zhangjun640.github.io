@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Jun Zhang"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Jun Zhang
 
 **Mobile:** +86 18797521846  
 **Email:** 202200300321@mail.sdu.edu.cn  
