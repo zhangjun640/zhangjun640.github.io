@@ -36,16 +36,16 @@ Medical image analysis; Multimodal data analysis.
 
 ##  PUBLICATIONS
 
-- **Jun Zhang**, Jianbo Qiao, Zhiqun Zhao, Chenglin Yin, Junru Jin, Ding Wang, Wenjia Gao, Leyi Wei*:  
+- **Jun Zhang**, Jianbo Qiao, Zhiqun Zhao, Chenglin Yin, Junru Jin, Ding Wang, Wenjia Gao, Leyi Wei* :  
   *Accurate detection and quantification of single-base m6A RNA modification using nanopore signals with multi-view deep learning*,  
   *bioRxiv* 2025.08.04.668591; doi:[https://doi.org/10.1101/2025.08.04.668591](https://doi.org/10.1101/2025.08.04.668591) (*NUCLEIC ACIDS RESEARCH*, Under review)
 
-- Zhiqun Zhao#, **Jun Zhang#**, Guangyu Ji, Zhenzhen Zhou, Yaozong Yang, Fengqi Sun and Haiquan Lu*:  
+- Zhiqun Zhao#, **Jun Zhang#**, Guangyu Ji, Zhenzhen Zhou, Yaozong Yang, Fengqi Sun and Haiquan Lu* :  
   *Single-cell transcriptomics reveals spaceflight-induced accelerated aging and impaired recovery in the murine bone marrow.*  
   *npj Microgravity* (Under review)
 
 - Jia Liu#, Zhiqun Zhao#, Guangyu Ji#, Jie Lan#, Yuhong Zhang, Qi Liu, **Jun Zhang**, Yajing Zhang, Guangyao Wei, Fengqi Sun,  
-  Yiran Yu, Xiaofeng Jiang, Kai Ji, Qi Mei, Kai Zhang, Zheng Wang*, and Haiquan Lu*:  
+  Yiran Yu, Xiaofeng Jiang, Kai Ji, Qi Mei, Kai Zhang, Zheng Wang* , and Haiquan Lu* :  
   *Metabolic redundancy of fatty acid desaturation and elongation promotes hypoxia-induced breast cancer stem cell enrichment.*  
   *Submitted*
 
