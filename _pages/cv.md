@@ -44,8 +44,7 @@ Medical image analysis; Multimodal data analysis.
   *Single-cell transcriptomics reveals spaceflight-induced accelerated aging and impaired recovery in the murine bone marrow.*  
   *npj Microgravity* (Under review)
 
-- Jia Liu#, Zhiqun Zhao#, Guangyu Ji#, Jie Lan#, Yuhong Zhang, Qi Liu, **Jun Zhang**, Yajing Zhang, Guangyao Wei, Fengqi Sun,  
-  Yiran Yu, Xiaofeng Jiang, Kai Ji, Qi Mei, Kai Zhang, Zheng Wang* , and Haiquan Lu* :  
+- Jia Liu#, Zhiqun Zhao#, Guangyu Ji#, Jie Lan#, Yuhong Zhang, Qi Liu, **Jun Zhang**, Yajing Zhang, Guangyao Wei, Fengqi Sun, Yiran Yu, Xiaofeng Jiang, Kai Ji, Qi Mei, Kai Zhang, Zheng Wang* , and Haiquan Lu* :  
   *Metabolic redundancy of fatty acid desaturation and elongation promotes hypoxia-induced breast cancer stem cell enrichment.*  
   *Submitted*
 
