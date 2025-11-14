@@ -23,10 +23,13 @@ AI-Assisted Interview Platform:
   * Designed and deployed the project's full-stack architecture: built the frontend application (Vue 3) integrating resume editing, AI polishing, and mock interviews; and deployed the fine-tuned model as an HTTP API service using Ollama.
   * [GitHub Link](https://github.com/zhangjun640/AI-interviewers)
   * [Dataset Link](https://huggingface.co/zhangjun640)
-
-Guess the numbers game:
+    
+AI-Assisted Interview Platform:
 ======
-  * This project implemented a number-guessing game with complete game design and implementation logic.
+  * Tech Stack: Java, Java Swing, Java AWT, Java I/O
+  * Designed and implemented the complete game logic for a "Bulls and Cows" (nAnB) guessing game, building the entire multi-window graphical user interface with Java Swing.
+  * Developed a persistent user authentication and scoring system, managing user registration, login, and score ranking by reading and writing to local .txt files (Message.txt, Rank.txt).
+  * Enhanced the user experience by creating custom, reusable Java Swing components (CustomButton, CustomTextField) that support background images.
   * [GitHub Link](https://github.com/zhangjun640/Guess-Number-Game)
 
 Solitaire: 
