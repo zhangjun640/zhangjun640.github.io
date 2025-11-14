@@ -39,11 +39,13 @@ Solitaire:
   * Built a fully interactive GUI using Java Swing, handling complex mouse drag-and-drop events for selecting and moving single or stacked cards.
   * [GitHub Link](https://github.com/zhangjun640/Solitaire)
 
-
 SNP-SNP_Prediction: 
 ======
-  * In this project, I used the mutual information algorithm, and the power value in both the biallelic and triallelic models reached 1, meaning all the SNP loci were correctly identified with complete accuracy.
+  * Tech Stack: Python, pandas, scikit-learn, numpy, scipy
+  * Implemented a data analysis pipeline including Chi-Squared tests, T-tests, and mutual information algorithms to evaluate SNP-phenotype associations.
+  * Validated findings using a scikit-learn Logistic Regression model with cross-validation; achieved a power value of 1.0 in both biallelic and triallelic models, indicating 100% accuracy in identifying all target SNP loci.
   * [GitHub Link](https://github.com/zhangjun640/SNP-SNP_Prediction)
+
 
 Computational Optimization of Many Body Problems:
 ======
