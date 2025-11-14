@@ -49,4 +49,4 @@ Computational-Optimization-of-Many-Body-Problems:
   * Project Goal: To optimize an N-body simulation program by addressing its $O(N^2)$ computational complexity.
   * Core Technologies: Utilized OpenMP for multi-core parallelization combined with SIMD (AVX/AVX512) instructions for vectorized computation.
   * Optimizations & Results: Enhanced memory efficiency through SoA layout and 64-byte alignment, achieving an 11.437x speedup on 32 cores while maintaining high computational precision.
-  * [GitHub Link](https://github.com/zhangjun640/nbody_simd)
+  * [GitHub Link](https://github.com/zhangjun640/Computational-Optimization-of-Many-Body-Problems)
