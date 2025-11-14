@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Progress:"
+title: "# Research Experience & Project Progress"
 permalink: /process/
 author_profile: true
 
@@ -8,8 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-
-# Research Experience & Project Progress
 
 ---
 
