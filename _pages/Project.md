@@ -24,7 +24,7 @@ AI-Assisted Interview Platform:
   * [GitHub Link](https://github.com/zhangjun640/AI-interviewers)
   * [Dataset Link](https://huggingface.co/zhangjun640)
     
-AI-Assisted Interview Platform:
+Guess the numbers game:
 ======
   * Tech Stack: Java, Java Swing, Java AWT, Java I/O
   * Designed and implemented the complete game logic for a "Bulls and Cows" (nAnB) guessing game, building the entire multi-window graphical user interface with Java Swing.
@@ -32,15 +32,13 @@ AI-Assisted Interview Platform:
   * Enhanced the user experience by creating custom, reusable Java Swing components (CustomButton, CustomTextField) that support background images.
   * [GitHub Link](https://github.com/zhangjun640/Guess-Number-Game)
 
-Solitaire: 
+Solitaire:
 ======
-  * This project implemented a Solitaire game with a well-designed interactive interface and complete game logic.
+  * Tech Stack: Java, Java Swing, Java AWT (Graphics, Event Handling), Java I/O
+  * Developed the complete game logic for Klondike Solitaire, employing a strong Object-Oriented design with a CardPile class hierarchy (Deck, Discard, Table, Suit) to manage game rules and state.
+  * Built a fully interactive GUI using Java Swing, handling complex mouse drag-and-drop events for selecting and moving single or stacked cards.
   * [GitHub Link](https://github.com/zhangjun640/Solitaire)
 
-Web crawler attempt: 
-======
-  * In this project, I used Python web scraping to extract data from a novel website and NASA's public database, successfully completing the entire task.
-  * [GitHub Link](https://github.com/zhangjun640/Try-web-crawler)
 
 SNP-SNP_Prediction: 
 ======
