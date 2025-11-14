@@ -51,7 +51,6 @@ Medical image analysis; Multimodal data analysis.
 ---
 
 ##  RESEARCH EXPERIENCES
-https://github.com/zhangjun640/zhangjun640.github.io/blob/master/_pages/cv.md
 ### Prediction of RNA Modifications using Nanopore Direct RNA Sequencing Reads  
 **Research Assistant**, Research Center of Software and Data Engineering  
 *Jun. 2023 – Aug. 2025*
