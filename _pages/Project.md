@@ -44,3 +44,9 @@ SNP-SNP_Prediction:
   * In this project, I used the mutual information algorithm, and the power value in both the biallelic and triallelic models reached 1, meaning all the SNP loci were correctly identified with complete accuracy.
   * [GitHub Link](https://github.com/zhangjun640/SNP-SNP_Prediction)
 
+Computational-Optimization-of-Many-Body-Problems:
+======
+  * Project Goal: To optimize an N-body simulation program by addressing its $O(N^2)$ computational complexity.
+  * Core Technologies: Utilized OpenMP for multi-core parallelization combined with SIMD (AVX/AVX512) instructions for vectorized computation.
+  * Optimizations & Results: Enhanced memory efficiency through SoA layout and 64-byte alignment, achieving an 11.437x speedup on 32 cores while maintaining high computational precision.
+  * [GitHub Link](https://github.com/zhangjun640/nbody_simd)
